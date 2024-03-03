@@ -1,0 +1,14 @@
+My name is "{{ name }}" and I'm "{{ age }}" years old.
+I live in "{{ address }}".
+{%- if car.license == true %}
+I have a drivers license and I drive a "{{ car.type }}".
+{%- else %}
+I don't have a drivers license so I dont drive any car :(.
+{%- endif %}
+Usually I do:
+{%- for time, hobbies in hobbies.items() %}
+    In the "{{ time }}" I do the following:
+    {%- for hobbie in hobbies %}
+        - {{ hobbie }}
+    {%- endfor  %}
+{%- endfor  %}

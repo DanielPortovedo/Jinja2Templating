@@ -1,0 +1,13 @@
+{
+    "name": "Alice",
+    "age": 22,
+    "address": "some nicer place than bob in planet earth",
+    "car": {
+        "license": false
+    },
+    "hobbies": {
+        "morning": ["read"],
+        "afternoon": ["work","ear music", "run"],
+        "night": ["relax"]
+    }
+}

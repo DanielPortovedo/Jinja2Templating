@@ -1,0 +1,14 @@
+{
+    "name": "Bob",
+    "age": 25,
+    "address": "some place in planet earth",
+    "car": {
+        "license": true,
+        "type": "Tesla"
+    },
+    "hobbies": {
+        "morning": ["run", "read"],
+        "afternoon": ["work","ear music"],
+        "night": ["relax"]
+    }
+}

@@ -1,0 +1,12 @@
+My name is "Alice" and I'm "22" years old.
+I live in "some place in planet earth".
+I don't have a drivers license so I dont drive any car :(.
+Usually I do:
+    In the "morning" I do the following:
+        - read
+    In the "afternoon" I do the following:
+        - work
+        - ear music
+        - run
+    In the "night" I do the following:
+        - relax

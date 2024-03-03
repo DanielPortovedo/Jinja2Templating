@@ -1,0 +1,12 @@
+My name is "Bob" and I'm "25" years old.
+I live in "some place in planet earth".
+I have a drivers license and I drive a "Tesla".
+Usually I do:
+    In the "morning" I do the following:
+        - run
+        - read
+    In the "afternoon" I do the following:
+        - work
+        - ear music
+    In the "night" I do the following:
+        - relax
