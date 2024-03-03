@@ -1,5 +1,5 @@
 My name is "Alice" and I'm "22" years old.
-I live in "some place in planet earth".
+I live in "some nicer place than bob in planet earth".
 I don't have a drivers license so I dont drive any car :(.
 Usually I do:
     In the "morning" I do the following:
